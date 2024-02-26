@@ -1,0 +1,10 @@
+{
+  "routes": [
+    "/",
+    "/ui",
+    "/ui/buttons",
+    "/ui/notification",
+    "/ui/side-panel",
+    "/ui/summary-card"
+  ]
+}
